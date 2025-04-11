@@ -1,4 +1,4 @@
-# 🍽️ Restaurante API 
+# 🍽️ Restaurante Cloud_API 
 
 API simples para gerenciamento de pedidos em um restaurante. Desenvolvida com **FastAPI**, infraestrutura provisionada com **Terraform** e deploy feito na **nuvem Azure**.
 
