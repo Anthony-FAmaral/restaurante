@@ -19,5 +19,6 @@ API simples para gerenciamento de pedidos em um restaurante. Desenvolvida com **
 - **Azure App Service** – Hospedagem da aplicação na nuvem
 - **Python**
 
-![OIP](https://github.com/user-attachments/assets/680e4cfb-500c-4872-b042-107ba7ec741e)
+![OIP](https://github.com/user-attachments/assets/814e19fb-44f6-4052-a2a5-95c7d3dc4015)
+
 
