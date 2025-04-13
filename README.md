@@ -13,10 +13,10 @@ API simples para gerenciamento de pedidos em um restaurante. Desenvolvida com **
 
 ## 🛠️ Tecnologias utilizadas
 
-- **FastAPI** – Criação da API REST
+- **Python FastAPI** – Criação da API REST
 - **Terraform** – Infraestrutura como código para automatizar recursos na Azure
 - **Azure App Service** – Hospedagem da aplicação na nuvem
-- **Python 
+- 
 
 
 
